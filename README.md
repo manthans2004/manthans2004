@@ -81,7 +81,7 @@ Automated provisioning of **Nginx, MySQL, Node.js** for consistent deployments.
 
 ## 🏅 Achievements & Leadership  
 - 🥇 **Best Outgoing Student & Gold Medalist** – Mahatma Vidyalaya  
-- 🔹 Secretary, **CSI – TOCE Chapter (2024–Present)**  
+- 🔹 Secretary, **CSI – TOCE Chapter (2024–2025)**  
 - 🔹 Executive Member, CSI – TOCE (2024)  
 
 ---
