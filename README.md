@@ -61,8 +61,9 @@
 🔹 **[Blockchain Transaction Ledger](#)**  
 *Tech Stack: Python, Flask* | Secure immutable ledger with SHA-256 hashing & PoW.  
 
-🔹 **[Automated Server Setup with Ansible](#)**  
-Automated provisioning of **Nginx, MySQL, Node.js** for consistent deployments.  
+🔹 **[Project Citadel | Python, Flask, Cryptography](#)**
+
+*Programming: Python, JavaScript, HTML5, CSS3 |Frameworks: Flask, NumPy, Pillow, Bootstrap |Cryptography: Hill Cipher, CBC Mode, S-Box Design, Modular Arithmetic.
 
 ---
 
