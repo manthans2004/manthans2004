@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">🌟 Hi, I'm <a href="https://github.com/manthans2004">Manthan S</a>!</h1>
-<h3 align="center">Aspiring Software Development Engineer | Blockchain • DevOps • Web Development</h3>
+<h3 align="center">Aspiring Software Development Engineer | Blockchain • Web Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manthans2004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
@@ -14,7 +14,7 @@
 ## 🚀 About Me  
 🎓 CS Undergraduate @ **The Oxford College of Engineering (VTU)** | CGPA: 9.4  
 🏆 **Best Outgoing Student & Gold Medalist (2019–20)** | Secretary, **CSI – TOCE Chapter**  
-💻 Passionate about **Software Development, Cloud, DevOps, and Blockchain**  
+💻 Passionate about **Software Development and Blockchain**  
 🌱 Exploring **AI + Edge Computing in Secure Networks**  
 
 ---
