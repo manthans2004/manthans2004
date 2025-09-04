@@ -56,7 +56,7 @@
 *Tech Stack: Node.js, MySQL, JavaScript* | Budget planning, reminders, and financial insights.  
 
 🔹 **[LegalEase – Voice-based Legal Form Assistant](#)**  
-*Tech Stack: React.js, BHASHINI API, MongoDB* | Multilingual speech-to-legal document platform.  
+*Tech Stack: React.js, GOOGLE SPEECH  TO TEXT API, MongoDB* | Multilingual speech-to-legal document platform.  
 
 🔹 **[Blockchain Transaction Ledger](#)**  
 *Tech Stack: Python, Flask* | Secure immutable ledger with SHA-256 hashing & PoW.  
