@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me  
-🎓 CS Undergraduate @ **The Oxford College of Engineering (VTU)** | CGPA: 9.4  
+🎓 CS Undergraduate @ **The Oxford College of Engineering (VTU)** | CGPA: 9.39
 🏆 **Best Outgoing Student & Gold Medalist (2019–20)** | Secretary, **CSI – TOCE Chapter**  
 💻 Passionate about **Software Development and Blockchain**  
 🌱 Exploring **AI + Edge Computing in Secure Networks(IDS**  
